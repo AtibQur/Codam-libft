@@ -95,5 +95,5 @@ cd path_to_libft && make
 <br>
 <h2>Third-party testers</h2>
 <li><a href="https://github.com/Tripouille/libftTester">libftTester-Tripouille</a></li>
-<li><a href="hhttps://github.com/y3ll0w42/libft-war-machine">War-machine-Y3ll0w42</a></li>
+<li><a href="https://github.com/y3ll0w42/libft-war-machine">War-machine-Y3ll0w42</a></li>
 <li><a href="https://github.com/alelievr/libft-unit-test">Unit-tester-Alelievr</a></li>
