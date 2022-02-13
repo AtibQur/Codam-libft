@@ -1,9 +1,7 @@
 # <p align="center">Project <a style="color:#78dda5;text-decoration:none;" href="https://github.com/AtibQur/Codam-libft/blob/main/libft.pdf">Libft</a> 📚</h1>
-
-<h2>Description Libft</h2>  
-<br> 
+<p><img align="right" src="https://user-images.githubusercontent.com/76216657/153778502-5f6beaae-f8b1-43bd-a22c-5875fde5cc59.png" alt="Score" width="125" height="125"></p>
+<h2> Description Libft</h2>   
 <p>*The goal of this project is create small functions that you can combine to create your own library. These functions need to be able to act like the real functions from the C library and also manage the same error handling.*</p>
-<br>
 <h2>Installation</h2>
 
 *To build the programm there is only a few steps: First of all, you can download the repository through the following steps in any shell of your preference:*
